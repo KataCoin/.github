@@ -1,0 +1,1 @@
+** Kata is a CDP based stable coin for EVM compatible ecosystems
